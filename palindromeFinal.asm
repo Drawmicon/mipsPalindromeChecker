@@ -1,6 +1,3 @@
-#Author: Heili Zhang, Mtch Rosenlof, Steven
-#Instructor: Jeffrey Griffith
-#Course : CST 307 MWF@9:45 am
 #Date: 2017/10/8
 #describe: This program will read a line of text and determine whether or not the text is a palindrome.
 .data
